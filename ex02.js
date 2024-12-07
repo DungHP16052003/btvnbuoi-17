@@ -19,4 +19,4 @@ myInfor.major = "doctor"
 console.log(myInfor);
 console.log(myInfor.phoneuNmber.length);
 let paragraph = "hello tat ca moi nguoi";
-console.log(paragraph.length);
+console.log(paragraph.length);i
